@@ -1,5 +1,6 @@
 # simple-credit-card-validation-form
-A simple credit cards validation library in JavaScript
+A simple credit cards validation library in JavaScript.
+
 Credit card type and mask
 Here is  an example of a credit card input .
 
