@@ -9,3 +9,4 @@ It has 3 types of credit cards:
 2. MasterCard
 3. Amex
 
+![alt text](https://github.com/dhimiterbundo/simple-credit-card-validation-form/blob/master/assets/images/Screenshot.png)
